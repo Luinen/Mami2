@@ -15,3 +15,18 @@ body {
     height: 500px;
     width: 400px;
 }
+
+@media (max-width: 530px) {
+    .kep1 {
+        height: 400px;
+        width: 300px;
+    }
+    .kep {
+        height: 350px;
+        width: 300px;
+    }
+}
+
+@media (max-width: 320px) {
+    
+}
