@@ -28,5 +28,12 @@ body {
 }
 
 @media (max-width: 320px) {
-    
+    .kep1 {
+        height: 300px;
+        width: 200px;
+    }
+    .kep {
+        height: 300px;
+        width: 250px;
+    }
 }
