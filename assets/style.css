@@ -11,9 +11,14 @@ body {
     width: 400px;
 }
 
-.kep {
+.kep2 {
     height: 500px;
     width: 400px;
+}
+
+.kep3 {
+    height: 500px;
+    width: 500px;
 }
 
 @media (max-width: 530px) {
@@ -21,9 +26,13 @@ body {
         height: 400px;
         width: 300px;
     }
-    .kep {
+    .kep2 {
         height: 350px;
         width: 300px;
+    }
+    .kep3 {
+        height: 400px;
+        width: 400px;
     }
 }
 
@@ -32,8 +41,12 @@ body {
         height: 300px;
         width: 200px;
     }
-    .kep {
+    .kep2 {
         height: 300px;
         width: 250px;
+    }
+    .kep3 {
+        height: 300px;
+        width: 300px;
     }
 }
