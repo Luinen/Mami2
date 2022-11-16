@@ -1,0 +1,17 @@
+body {
+    margin: 0;
+    padding: 0;
+    background-color: antiquewhite;
+    font-size: larger;
+    margin-left: 4px;
+}
+
+.kep1 {
+    height: 600px;
+    width: 400px;
+}
+
+.kep {
+    height: 500px;
+    width: 400px;
+}
